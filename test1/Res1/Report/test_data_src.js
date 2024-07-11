@@ -1,0 +1,1 @@
+﻿var __testDataSource={items:[{dataFilePath:'Default.xlsx',dataFileFormat:'excel',dataFileFolder:'C:\\Users\\jose.valdez\\OneDrive - TSOFT\\Documentos\\automatizacion\\testjenkins\\test1\\Res1',namePairs:[]}]};
